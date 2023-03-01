@@ -1,28 +1,25 @@
-{
-  "data": [{
-    "type": "articles",
-    "id": "1",
-    "attributes": {
-      "title": "JSON:API paints my bikeshed!",
-      "body": "The shortest article. Ever.",
-      "created": "2015-05-22T14:56:29.000Z",
-      "updated": "2015-05-22T14:56:28.000Z"
-    },
-    "relationships": {
-      "author": {
-        "data": {"id": "42", "type": "people"}
-      }
-    }
-  }],
-  "included": [
-    {
-      "type": "people",
-      "id": "42",
-      "attributes": {
-        "name": "John",
-        "age": 80,
-        "gender": "male"
-      }
-    }
-  ]
-}
+{"categories": [{
+"name": "Date a Live",
+"sezon": "jesteń 2024",
+"videos": [{
+"title": "Date a Live",
+"description": "date a Live", 
+"odcinek": [{
+"01": [{"url":["https://www.cda.pl/video/1162180439"]}],
+"02": [{"url":["https://www.cda.pl/video/1162180439"]}],
+"03": [{"url":["https://www.cda.pl/video/1162180439"]}],                                                                                                                 
+"04": [{"url":["https://www.cda.pl/video/1162180439"]}],
+"05": [{"url":["https://www.cda.pl/video/1162180439"]}]
+}]}],
+"name": "Date a Live 2",
+"videos": [{
+"title": "Date a Live",
+"sezon": "zima 2017",
+"description": "date a Live", 
+"odcinek": [{
+"01": [{"url":["https://www.cda.pl/video/1162180439"]}],
+"02": [{"url":["https://www.cda.pl/video/1162180439"]}],
+"03": [{"url":["https://www.cda.pl/video/1162180439"]}],                                                                                                                 
+"04": [{"url":["https://www.cda.pl/video/1162180439"]}],
+"05": [{"url":["https://www.cda.pl/video/1162180439"]}]
+}]}]}]}

@@ -4,7 +4,7 @@
 "videos": [{
 "title": "Date a Live",
 "img": ["https://hubertkajdan.com/wp-content/uploads/2019/06/2019-06-20-Jezioro-Lednickie-010-Pano-1024x663.jpg"],
- "01": [{"url":["https://www.cda.pl/video/1162180439"]}],
+ "url":["https://www.cda.pl/video/1162180439"],
 "description": "date a Live", 
 "odcinek": [{
 "01": [{"url":["https://www.cda.pl/video/1162180439"]}],
@@ -17,7 +17,7 @@
 "videos": [{
 "title": "Date a Live",
 "img": ["https://cdn.pixabay.com/photo/2015/10/01/17/17/car-967387__480.png"],
- "01": [{"url":["https://www.cda.pl/video/1162180439"]}],
+ "url":["https://www.cda.pl/video/1162180439"],
 "sezon": "zima 2017",
 "description": "date a Live", 
 "odcinek": [{
